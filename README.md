@@ -15,7 +15,7 @@ In order to make the original source code runnable, we have detected some small 
 
 ## Issue Report
 
-Apart from the above modification, it still remains some issues that we have not fixed or reported the developers as follows. 
+Apart from the above modification, it still remains some issues that have NOT been fixed or reported the developers as follows.  
 
 | No. | Issue's Description | Found By |
 |-----|---------------------|----------|
