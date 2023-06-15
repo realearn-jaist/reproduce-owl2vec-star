@@ -17,11 +17,11 @@ In order to make the original source code runnable, we have detected some small 
 
 Apart from the above modification, it still remains some issues that have NOT been fixed or reported the developers as follows.  
 
-| No. | Issue's Description                                                                           | Found By |
-|-----|---------------------                                                                          |----------|
-| 1   | Pre-trained gensim word2vec for using with the pre-trained option not included in the library | Chavakan |
-|     |                                                                                               |          |
-|     |                                                                                               |          |
+| No. | Issue's Description                                     | Found By |
+|-----|---------------------                                    |----------|
+| 1   | Pre-trained gensim word2vec not included in the library | Chavakan |
+|     |                                                         |          |
+|     |                                                         |          |
 
 ## Remarks 
 
