@@ -5,7 +5,7 @@ This repository provides a reproducible source code of OWL2Vec* for our study pu
 
 ## Change Log 
 
-In order to make the original source code runnable, we have detected some small bugs and fixed them. We also commented the code for more readability for other users who would like to try learning how OWL2Vec* works. The change are as follows. 
+In order to make the original source code runnable, we have detected some small bugs and fixed them. We also commented the code for more readability for other users who would like to try learning how OWL2Vec* works. The changes are as follows. 
 
 | Date        | Changed By  | Change Location (Path & Line Number)          | Action (Add / Remove / Edit)          |
 |------       |------------ |--------------------------------------         |------------------------------         |
